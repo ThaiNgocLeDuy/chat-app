@@ -5,4 +5,4 @@ Using:
   - Firebase
   - Antd
 
-# original by Holetex fun-chat
+Original by Holetex fun-chat
